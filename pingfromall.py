@@ -19,7 +19,7 @@ import sys
 import os
 import re
 import socket
-from loadtest.SysEnvironment import SysEnvironment
+from SysEnvironment import SysEnvironment
 import pyping
 
 from argparse import ArgumentParser
